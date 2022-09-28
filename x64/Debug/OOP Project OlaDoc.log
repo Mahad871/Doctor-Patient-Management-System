@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(26,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(36,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(46,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(56,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(70,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(85,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(101,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(360,11): warning C4129: '_': unrecognized character escape sequence
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(384,11): warning C4129: '_': unrecognized character escape sequence
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(261,9): warning C4101: 'amount': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(719,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(1227,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(1231,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(1291,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(1296,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(1859,11): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(2099,9): warning C4102: 'mainmenu': unreferenced label
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\OlaDoc.h(2143): warning C4717: 'mainmenu': recursive on all control paths, function will cause runtime stack overflow
+  OOP Project OlaDoc.vcxproj -> C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\OOP Project OlaDoc\x64\Debug\OOP Project OlaDoc.exe
